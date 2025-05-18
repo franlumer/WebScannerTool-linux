@@ -20,8 +20,9 @@ Web Scanner is a python-developed tool that allows you to scan multiple URLs eff
 3. pip install -r requirements.txt
 
 ## Ussage:  
-Input file:  
-![urls](images/urlstxt.png)
+
+Input file:
+![inputFile](images/urlstxt.png)
 
 Command:  
 ![example](images/example.png)
