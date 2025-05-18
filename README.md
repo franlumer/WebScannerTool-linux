@@ -21,10 +21,10 @@ Web Scanner is a python-developed tool that allows you to scan multiple URLs eff
 
 ## Ussage:  
 Input file:  
-![input](images/urlstxt.png)
+![urls](images/urlstxt.png)
 
 Command:  
-![input](images/examples.png)
+![example](images/example.png)
 
 Result:  
 ![resulttxt](images/resulttxt.png)
