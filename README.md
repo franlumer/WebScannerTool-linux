@@ -5,8 +5,10 @@ Main features: thread usage, code filtering, file output, --forcehttp support, e
 Requirements: Python 3.8+, libraries: httpx, tqdm, threading.  
 ___  
 Installation:  
-git clone https://github.com/  
-cd web-scanner  
-pip install -r requirements.txt  
+1. git clone https://github.com/  
+2. cd web-scanner  
+3. pip install -r requirements.txt
+
+Ussage:  
 python3 webScanner.py <inputFile>  
 ___
