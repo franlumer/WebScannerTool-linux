@@ -1,7 +1,7 @@
 # WebScannerTool-linux
-Python-developed web scanner tool. Helps analizing multiple web url's by its response codes. 
+Python-developed web scanner tool. Helps analizing multiple web url's by its response codes.
 
-Main features: thread usage, code filtering, file output, --forcehttp support, etc. 
+Main features: thread usage, code filtering, file output, --forcehttp support, etc.
 Requirements: Python 3.8+, libraries: httpx, tqdm, threading.
 ___
 Installation: 
