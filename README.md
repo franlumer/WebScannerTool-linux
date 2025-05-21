@@ -15,9 +15,9 @@ Python-developed web scanner tool. Helps analizing multiple web url's by its res
 Web Scanner is a python-developed tool that allows you to scan multiple URLs efficiently using multiple threads. Its main objective is verify the availability and response status of webs, filtering by it's HTTP codes and generating a report of results.  
   
 ## Installation:  
-1. git clone https://github.com/franlumer/WebScannerTool-linux.git
-2. cd WebScannerTool-linux    
-3. pip install -r requirements.txt
+1. `git clone https://github.com/franlumer/WebScannerTool-linux.git`    
+2. `cd WebScannerTool-linux`    
+3. `pip install -r requirements.txt`
 
 ## Ussage:  
 
